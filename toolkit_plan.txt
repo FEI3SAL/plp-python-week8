@@ -1,0 +1,27 @@
+PLP WEEK 8 FINAL PROJECT
+Personal Mini-Toolkit
+
+TOOL 1: SIMPLE CALCULATOR
+The calculator allows the user to add, subtract, multiply, and divide two numbers.
+Concepts: Functions, conditionals, input, float, and f-strings.
+
+TOOL 2: TO-DO LIST
+The to-do list allows the user to add tasks and view tasks stored in a list.
+Concepts: Lists, loops, append, and conditionals.
+
+TOOL 3: PASS CHECKER
+The pass checker asks the user for a score and determines whether the learner has passed or failed.
+Concepts: Input, float, conditionals, and f-strings.
+
+MENU TEXT
+
+===== PERSONAL MINI-TOOLKIT =====
+1. Simple Calculator
+2. To-Do List
+3. Pass Checker
+4. Quit
+
+Enter your choice:
+
+The menu will repeat until the user chooses Quit.
+Invalid choices will display a friendly message.
